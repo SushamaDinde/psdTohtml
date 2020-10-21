@@ -1,0 +1,40 @@
+Project Title : Convert PSD to HTML
+
+
+Getting Started
+These instructions will get you a copy of the project up and running on your local machine.
+
+Prerequisites
+Need Internet to run web page.
+
+How to Run
+1. Need to copy all contain and keep it in one folder.
+2. Need to browse Efficacy.html file or Open Efficacy.html file on browser.
+
+
+
+Things which follow during implemantation of PSD to HTML
+1. Bootstrap 4 and styles from PSD are used which placed in CSS/style.css.
+
+2. Images : All images are downloaded from PSD. 
+
+3. main.js is used for creating popup on image.
+
+4. Efficacy.html : 
+	
+	- This page is implemented for iPad Landscape only (resolution : 1024*768).
+
+	- Sidebar : 
+		-	Menu Icon : On click of icon graph popup will open with dummy information
+		-	Refresh Icon : On click of refresh icon page will get refreshed.
+
+	- header : Header of page and logo is diplay
+
+	- tab container : 
+		- 3 tabs are display with content as per PSD.
+		- Zoom Button For Popup : On click of this button modal popup is getting display with respective content.
+	
+	- Scroll text : Content is getting display with vertical scroll bar.
+	
+	- footer : Menus are display on footer bar as per PSD.
+
